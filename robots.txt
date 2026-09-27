@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fu-koro.com/sitemap.xml
+Sitemap: https://fu-koro.com/mahjong-fu-calculator/sitemap.xml
