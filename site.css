@@ -64,6 +64,7 @@ a.app {
 a.app:hover { border-color: var(--felt); }
 a.app strong { display: block; font-size: 1.15rem; color: var(--felt); }
 a.app span { color: var(--ink-soft); }
+a.app .app-points { margin: 8px 0 0; padding-left: 1.25em; font-size: 0.9375rem; }
 
 /* 運営者情報などの項目と値 */
 .facts { display: grid; grid-template-columns: max-content 1fr; gap: 8px 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 16px; }
